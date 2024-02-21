@@ -7,5 +7,4 @@ the project continues
 _this is an underscore_ <br>
 **This is Vin**
 > this is one blockquote <br>
->> this is two blockquotes <br>
->>> this is three blockquotes <br> 
+
