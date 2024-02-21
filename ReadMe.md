@@ -15,4 +15,4 @@ The items are as follows:
 
 open it [here](https://www.youtube.com/)
 
-[example link](https://www.youtube.com// "Youtube")
+[example link](https://www.youtube.com/ "Youtube")
