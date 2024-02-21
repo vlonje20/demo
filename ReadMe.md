@@ -8,6 +8,6 @@ _this is an underscore_ <br>
 **This is Vin**
 
 The items are as follows:
->+ mangoe
->+ plums
->+ oranges 
++ mangoe
++ plums
++ oranges 
