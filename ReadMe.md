@@ -15,4 +15,4 @@ The items are as follows:
 
 open it [here](https://www.youtube.com/)
 
-| Name | Age | Gender | | --- | --- | --- | | Alice | 25 | F | | Bob | 30 | M |
+| Name | Age | Gender | | Alice | 25 | F | | Bob | 30 | M |
