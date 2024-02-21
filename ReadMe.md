@@ -15,4 +15,5 @@ The items are as follows:
 
 open it [here](https://www.youtube.com/)
 
-[example link](https://www.youtube.com/ "Youtube")
+I start my morning with a cup of coffee and
+[Youtube][https://www.youtube.com/].
