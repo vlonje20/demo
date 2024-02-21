@@ -17,3 +17,6 @@ open it [here](https://www.youtube.com/)
 
 I start my morning with a cup of coffee and
 [Youtube][https://www.youtube.com/].
+
+git init     
+
