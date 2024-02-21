@@ -7,4 +7,7 @@ the project continues
 _this is an underscore_ <br>
 **This is Vin**
 >this is one blockquote <br>
-
+The items are as follows:
+>+ mangoe
+>+ plums
+>+ oranges 
