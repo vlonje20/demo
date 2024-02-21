@@ -15,4 +15,4 @@ The items are as follows:
 
 open it [here](https://www.youtube.com/)
 
-mango  plum  buiscuit  you  him
+mango   plum   biscuit   you   him
